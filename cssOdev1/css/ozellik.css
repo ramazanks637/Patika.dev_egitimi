@@ -1,0 +1,39 @@
+body {
+    background-color: cornsilk;
+}
+
+.text-ort {
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+h3 {
+    color: red;
+    font-size: 30px;
+}
+
+h4 {
+    color:blue;
+    font-size: 20px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.ul-anasayfa{
+    display: block;
+    list-style: none;
+    font-size: 20px;
+    
+}
+
+.li-anasayfa {
+    display: inline;
+    padding-right: 50px;
+    list-style-position: inside;
+    
+}
+
