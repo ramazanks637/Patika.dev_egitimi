@@ -1,0 +1,85 @@
+.text-center {
+  text-align: center;
+}
+.flex {
+  display: flex;
+}
+.m-rl2rem {
+  margin: 0 2rem;
+}
+.mr-2 {
+  margin-right: 2px;
+}
+.ml-2 {
+  margin-left: 2px;
+}
+.mrl-2 {
+  margin: 0 2px;
+}
+
+.pt-4 {
+  padding-top: 4px;
+}
+.pt-1rem {
+  padding-top: 1rem;
+}
+.logo {
+  display: block;
+  margin: auto;
+}
+.search-area {
+  text-align: center;
+  background-color: #eeeeee;
+  font-weight: bold;
+  font-size: 16px;
+
+  white-space: pre-line;
+  padding: 0 0 0.3rem 0;
+}
+.search-box {
+  width: 308px;
+  height: 18px;
+}
+.help-area {
+  text-align: center;
+}
+
+.btns {
+  display: inline-flex;
+}
+.btn {
+  align-content: center;
+  margin: 5px 10px 0 0;
+  background-color: #efefef;
+  border-radius: 2px;
+}
+.width-40 {
+  width: 40%;
+}
+.width-20 {
+  width: 20%;
+}
+
+.bg-color-green1 {
+  background-color: #7ee5da;
+}
+.bg-color-green2 {
+  background-color: #70ccc2;
+}
+.bg-color-green3 {
+  background-color: #62b3aa;
+}
+.white-space {
+  white-space: pre;
+}
+
+input::placeholder {
+  color: black;
+}
+
+.fs-16 {
+  font-size: 16px;
+}
+.fs-13 {
+  font-size: 13px;
+}
